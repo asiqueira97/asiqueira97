@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
- Deseja entrar em contato? Segue abaixo os principais meios: ⤵️
+ Deseja entrar em contato? ⤵️
 </p>
 
 <p align="left">
