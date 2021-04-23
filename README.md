@@ -13,7 +13,7 @@
 </p>
 
 <p aling="left">
-  🧱 Frameworks: <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework (PHP), Flutter, VueJS</strong>
+  🧱 Frameworks: <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework (PHP), WordPress, Flutter, VueJS</strong>
 </p>
 
 <p align="left">
