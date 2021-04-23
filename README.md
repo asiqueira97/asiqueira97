@@ -5,11 +5,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>PHP, Dart, JavaScript, MySQL.</strong>
+🎓 Formado em Análise e Desenvolvimento de Sistemas
+<p/>
+
+<p align="left">
+  💻 Linguagens: <strong>PHP, Dart, JavaScript, MySQL.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, Postman, Docker e Git.</strong>
+  🔨 Ferramentas: <strong>VSCODE, Postman, Docker e Git.</strong>
 </p>
 
 <p aling="left">
