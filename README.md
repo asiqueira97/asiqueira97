@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-🎓 Formado em Análise e Desenvolvimento de Sistemas
+🎓 Formado em Análise e Desenvolvimento de Sistemas.
 <p/>
 
 <p align="left">
@@ -17,7 +17,11 @@
 </p>
 
 <p aling="left">
-  🧱 Frameworks: <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework (PHP), WordPress, Flutter, VueJS</strong>
+  🌎 Frameworks Web: <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework (PHP), WordPress, VueJS</strong>
+</p>
+
+<p aling="left">
+  📱 Frameworks Mobile: <strong>Flutter</strong>
 </p>
 
 <p align="left">
