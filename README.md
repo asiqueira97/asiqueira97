@@ -17,7 +17,7 @@
 </p>
 
 <p aling="left">
-  🌎 Frameworks Web <br />
+  🌎 Frameworks Web <br /><br />
   <span>PHP</span><br />
   <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework, WordPress</strong>
 </p>
