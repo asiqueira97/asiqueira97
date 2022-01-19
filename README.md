@@ -18,12 +18,12 @@
 
 <p aling="left">
   🌎 Frameworks Web <br />
-  <span>PHP</span>
+  <span>PHP</span><br />
   <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework, WordPress</strong>
 </p>
 
 <p aling="left">
-  <span>JavaScript</span>
+  <span>JavaScript</span><br />
   <strong>React JS, VueJS</strong>
 </p>
 
