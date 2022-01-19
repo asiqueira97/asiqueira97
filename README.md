@@ -17,7 +17,16 @@
 </p>
 
 <p aling="left">
-  🌎 Frameworks Web: <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework (PHP), WordPress, VueJS</strong>
+  🌎 Frameworks Web <br />
+  <span>PHP</span>
+  <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework (PHP), WordPress</strong> <br />
+  <span>JavaScript</span>
+  <strong>React JS, VueJS</strong>
+</p>
+
+<p aling="left">
+  🛒 Ecommerce <br />
+  <strong>VTEX, VTEX IO</strong>
 </p>
 
 <p aling="left">
