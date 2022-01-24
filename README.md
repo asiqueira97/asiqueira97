@@ -33,7 +33,7 @@
 </p>
 
 <p aling="left">
-  📱 Frameworks Mobile: <strong>Flutter</strong>
+  📱 Frameworks Mobile: <strong>Flutter e React Native</strong>
 </p>
 
 <p align="left">
