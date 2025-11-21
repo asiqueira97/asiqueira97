@@ -8,32 +8,22 @@
 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 <p/>
 
-<p align="left">
-  💻 Linguagens: <strong>PHP, Dart, JavaScript, MySQL.</strong>
-</p>
-
-<p align="left">
-  🔨 Ferramentas: <strong>VSCODE, Postman, Docker e Git.</strong>
-</p>
-
 <p aling="left">
-  🌎 Frameworks Web <br /><br />
+  🌎 Web <br /><br />
   <span>PHP</span><br />
   <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework, WordPress</strong>
+  <span>Javascript</span><br />
+  <strong>React JS, VUE JS</strong>
 </p>
 
-<p aling="left">
-  <span>JavaScript</span><br />
-  <strong>React JS, VueJS</strong>
+<p align="left">
+  📲 Mobile <br /><br /> 
+  <strong>React Native, Flutter</strong>
 </p>
 
 <p aling="left">
   🛒 Ecommerce <br />
-  <strong>VTEX, VTEX IO</strong>
-</p>
-
-<p aling="left">
-  📱 Frameworks Mobile: <strong>Flutter e React Native</strong>
+  <strong>VTEX IO</strong>
 </p>
 
 <p align="left">
