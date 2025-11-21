@@ -11,7 +11,7 @@
 <p aling="left">
   🌎 Web <br /><br />
   <span>PHP</span><br />
-  <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework, WordPress</strong>
+  <strong>Laravel 5+, Lumen, CodeIgniter, Slim Framework, WordPress</strong><br /><br />
   <span>Javascript</span><br />
   <strong>React JS, VUE JS</strong>
 </p>
